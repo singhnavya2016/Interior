@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://interiorconsult123.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://interiorconsult123.netlify.app/)
 - GitHub [@singhnavya2016](https://github.com/singhnavya2016)
 
